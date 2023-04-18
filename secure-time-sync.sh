@@ -1,6 +1,6 @@
-# https://gitlab.com/madaidan/secure-time-sync/-/blob/master/secure-time-sync.sh
-
 #!/bin/bash
+
+# https://gitlab.com/madaidan/secure-time-sync/-/blob/master/secure-time-sync.sh
 
 #    Secure Time Synchronization
 #    Copyright (C) 2019  madaidan
